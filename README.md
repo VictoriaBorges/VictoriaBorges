@@ -11,7 +11,7 @@
 - ☕ **Linguagens:** Java,JavaScript e SQL  
 - 🏗️ **Frameworks:** Spring Boot (em aprendizado)  
 - 🗄️ **Banco de Dados:** MySQL
-- 🔧 **Ferramentas:** Git, Notion, IntelliJ IDEA, Eclipse, Vscode
+- 🔧 **Ferramentas:** Git, Notion, Figma, IntelliJ IDEA, Eclipse, Vscode
 - 📡 **APIs e Web:** RESTful APIs, JSON  
 
 ---
